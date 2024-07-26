@@ -1,0 +1,30 @@
+body{
+    background-color:blue;
+}
+input{
+    margin:0;
+    border:none;
+    border-radius: 0;
+    width: 55%;
+    padding:10px;
+    font-size: 16px;
+    background-color: beige;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+ul li{
+    margin-top: 20px;
+    background: red;
+    font-size: 18px;
+}
+.add{
+    background: #d9d9d9;
+    color:#555;
+    text-align: center;
+    font-size: 16px;
+}
+.add.hover{
+    background-color: #bbb;
+}
